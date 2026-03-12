@@ -18,3 +18,6 @@ Esta aplicación web permite visualizar y explorar datos de anuncios de venta de
 3. Instalar dependencias:
    ```bash
    pip install -r requirements.txt
+   
+## Link al repositorio
+Demo / Código: [https://github.com/guevarakaren029/proyecto_triplet](https://github.com/guevarakaren029/proyecto_triplet)
